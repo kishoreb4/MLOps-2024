@@ -1,2 +1,1 @@
-This task is for assignment 2 in MLOPS
-Lets modify the content a bit
+The task is created first, modified and replaced later.
